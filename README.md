@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+the+future+with+code;🎯+CS+Student+%40+GEHU+Dehradun;💻+Full+Stack+Developer+%26+Problem+Solver)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShauryaBist21&label=Profile%20Views&color=36BCF7&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/ShauryaBist21?label=Followers&style=for-the-badge&color=36BCF7)](https://github.com/ShauryaBist21)
 
 </div>
 
