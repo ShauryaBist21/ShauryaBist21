@@ -2,11 +2,10 @@
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Shaurya%20Bist&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=51&descAlign=62)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+the+future+with+code;🎯+CS+Student+%40+GEHU+Dehradun;🏆+Hackathon+Winner+%26+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+the+future+with+code;🎯+CS+Student+%40+GEHU+Dehradun;💻+Full+Stack+Developer+%26+Problem+Solver)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShauryaBist21&label=Profile%20Views&color=36BCF7&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/ShauryaBist21?label=Followers&style=for-the-badge&color=36BCF7)](https://github.com/ShauryaBist21)
-[![GitHub User's stars](https://img.shields.io/github/stars/ShauryaBist21?label=Total%20Stars&style=for-the-badge&color=ffd700)](https://github.com/ShauryaBist21)
 
 </div>
 
@@ -26,15 +25,8 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShauryaBist21&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaBist21&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ShauryaBist21&theme=react&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=ffd700&currStreakLabel=36BCF7" height="180" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShauryaBist21&theme=react-dark&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffd700" height="180" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=ShauryaBist21&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&include_all_commits=true&count_private=true&custom_title=Overall%20GitHub%20Stats" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaBist21&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&langs_count=8&card_width=320" />
 
 </div>
 
@@ -85,19 +77,7 @@
 
 ---
 
-## 📊 Contribution Activity
 
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShauryaBist21/ShauryaBist21/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShauryaBist21/ShauryaBist21/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShauryaBist21/ShauryaBist21/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
 
 ## 🌐 Let's Connect
 
