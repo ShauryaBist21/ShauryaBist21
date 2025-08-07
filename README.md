@@ -23,11 +23,23 @@
 ## 🔥 GitHub Analytics
 
 <div align="center">
-  
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=ShauryaBist21&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&include_all_commits=true&count_private=true&custom_title=Overall%20GitHub%20Stats" />
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShauryaBist21&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true"/>
+
+<!-- Top Languages -->
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaBist21&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&langs_count=8&card_width=320" />
 
+<!-- Contribution Calendar (Live from your GitHub) -->
+<img src="https://github-contributions-api.deno.dev/ShauryaBist21.svg" width="85%" />
+
+<!-- Contribution Count Badge (update number if it changes) -->
+<img src="https://img.shields.io/badge/Contributions%20This%20Year-75-blue?style=for-the-badge&logo=github" />
+
 </div>
+
+
+
 
 ---
 
