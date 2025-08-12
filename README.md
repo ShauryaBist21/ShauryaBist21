@@ -43,15 +43,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Developer Metrics
 
 <div align="center">
-  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShauryaBist21&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShauryaBist21&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShauryaBist21&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShauryaBist21&theme=github_dark" />
 
 </div>
-
----
 
 ## ⚡ Tech Arsenal
 
